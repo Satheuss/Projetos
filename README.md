@@ -1,4 +1,6 @@
 Como o jogo funciona:
+
+
 -O revólver tem 6 câmaras, uma delas contém uma bala (posição aleatória).
 
 -A cada rodada, o tambor é girado aleatoriamente.
