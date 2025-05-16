@@ -1,14 +1,14 @@
-Como o jogo funciona:
+Olá, meu nome é Matheus Sousa
+Sou um desenvolvedor dedicado, sempre em busca de aprender e melhorar.
+Meu foco atual é descobrir qual área pretendo atuar profissionalmente e aprender o máximo possível durante o caminho.
+No momento, estou focado em desenvolvimento Python e um pouco de HTML.
 
+Projetos Destacados
+Roleta Russa - Meu primeiro projeto de maior empenho, no qual simula um jogo de roleta russa.
+O maior destaque desse projeto, na minha opinião, seria a criatividade de usar um delay para aumentar o suspense.
 
--O revólver tem 6 câmaras, uma delas contém uma bala (posição aleatória).
+Aberto a colaborações e oportunidades de aprendizado!
+Como me encontrar:
+Linkedin: www.linkedin.com/in/matheussousacosta
+Email: matheusscosta0806@gmail.com
 
--A cada rodada, o tambor é girado aleatoriamente.
-
--Se a posição do tambor coincidir com a posição da bala, o jogador perde.
-
--O jogador pode decidir parar a qualquer momento.
-
--Se sobreviver a todas as 6 rodadas, vence o jogo.
-
-O código inclui efeitos dramáticos com time.sleep() para aumentar a tensão.
