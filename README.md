@@ -1,4 +1,9 @@
-Projeto:
-Roleta Russa - Meu primeiro projeto minimamente relevante, no qual simula um jogo de roleta russa.
-O maior destaque desse projeto, na minha opinião, seria a criatividade de usar um delay para aumentar o suspense.
-É previsto para rodar em qualquer maquina sem nenhum pré-requisito.
+md id="root321"
+Meus Projetos em Python
+
+Repositório com projetos desenvolvidos durante meus estudos.
+
+Projetos:
+
+- AppImageRandomizer → Aplicativo de imagens aleatórias
+- Roleta_Russa → Jogo de Roleta Russa com alguns fatores que trazem uma experiencia mais divertida ao jogador
