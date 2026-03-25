@@ -40,7 +40,8 @@ def roleta_russa():
                 print("\nVocê desistiu. um verdadeiro covarde!")
                 return
     
-    print("\nVocê sobreviveu a todas as rodadas! Parabéns!")
+    
+    print("\nVocê sobreviveu a todas as rodadas! Parabéns!") 
 
 if __name__ == "__main__":
     roleta_russa()
